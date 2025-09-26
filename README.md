@@ -27,6 +27,7 @@ Built with **Streamlit**, **NLTK VADER**, and **Plotly**, and designed to run en
 ## Project Structure
 - sentiment_analysis.py # Full code
 - images/ # Screenshots of sample results
+- datasets/ # Sample dataset that can use
 - README.md # Project documentation
 
 ---
